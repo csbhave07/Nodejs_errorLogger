@@ -1,0 +1,5 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/users\",\"status\":\"304\",\"responseTime\":\"5.120\"}","timestamp":"2024-11-28T10:09:59.274Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/users\",\"status\":\"404\",\"responseTime\":\"4.316\"}","timestamp":"2024-11-28T10:10:23.358Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/users\",\"status\":\"404\",\"responseTime\":\"5.984\"}","timestamp":"2024-11-28T10:11:01.065Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/users\",\"status\":\"404\",\"responseTime\":\"4.653\"}","timestamp":"2024-11-28T10:11:12.322Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/users\",\"status\":\"200\",\"responseTime\":\"2.075\"}","timestamp":"2024-11-28T10:11:13.737Z"}
